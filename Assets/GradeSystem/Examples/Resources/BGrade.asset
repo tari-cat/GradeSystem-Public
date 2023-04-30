@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 87ac2957efad7a64d86ba24800d8f442, type: 3}
-  m_Name: DRank
+  m_Name: BGrade
   m_EditorClassIdentifier: 
-  Group: ExampleRank
-  Name: D
-  Priority: 1
+  Group: ExampleGrade
+  Name: B
+  Priority: 3
   Criteria:
   - id: 0
   references:
@@ -23,5 +23,5 @@ MonoBehaviour:
       type: {class: FloatGradeCriteria, ns: , asm: Assembly-CSharp}
       data:
         Name: Score
-        Value: 50
+        Value: 80
         Operation: 4
