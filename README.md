@@ -1,4 +1,5 @@
-# GradeSystem-Public
+# GradeSystem
+A small utility package which makes the process of adding grades or ranks in games easier.
 
 ## Installation
  - Grab the .unitypackage file from the Releases tab.
